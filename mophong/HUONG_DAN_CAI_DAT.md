@@ -103,7 +103,10 @@ Xong bước này, mở **This PC → ổ C** phải thấy thư mục **ThiMoph
 
 Bộ video nặng **2,67 GB** nên không đi kèm bản cài (GitHub chỉ cho đính kèm tối đa 2 GB mỗi file).
 
-1. Tải file **`Video-MoPhong-120-tinh-huong.zip`** theo đường dẫn ghi ở **đầu trang Releases**
+### 👉 [BẤM VÀO ĐÂY ĐỂ TẢI BỘ VIDEO](https://drive.google.com/drive/folders/1gAt8kTySycjddUmXc0F_8hVDHBpcmO2S?usp=sharing)
+
+1. Mở đường dẫn trên, tải file **`Video-MoPhong-120-tinh-huong.zip`**
+   (Google Drive có thể báo *"Không quét được vi-rút vì file quá lớn"* → bấm **Tải xuống dù sao**)
 2. Vào `C:\ThiMophong_MayChu`, bấm đúp vào file **`CaiDatVideo.bat`**
 3. Hiện cửa sổ đen hỏi file zip → **kéo file zip vừa tải thả vào cửa sổ đen** → nhấn **Enter**
 4. Chờ vài phút. Xong nó báo `So file video: 473`
