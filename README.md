@@ -6,7 +6,7 @@ Kho chứa **bản cài và bản cập nhật** của phần mềm. Kho này ch
 
 ## ⬇ TẢI BỘ CÀI (bấm vào đây)
 
-### 👉 [**Setup_DatAggregator_v1.2.3.exe** — Hệ thống quản lý CSĐT](https://github.com/khavy1203/csdt-release/releases/download/dataggregator-latest/Setup_DatAggregator_v1.2.3_20260926_231446.exe)
+### 👉 [**Setup_DatAggregator_v1.2.4.exe** — Hệ thống quản lý CSĐT](https://github.com/khavy1203/csdt-release/releases/download/dataggregator-latest/Setup_DatAggregator_v1.2.4_20260929_150057.exe)
 
 Tải file đó về, bấm đúp để cài. **Không cần gỡ bản cũ** — cài đè, dữ liệu và cấu hình giữ nguyên.
 
